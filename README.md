@@ -1,4 +1,28 @@
-![parse-repository-header-sdk-objc](https://user-images.githubusercontent.com/5673677/138286296-f4e855c3-2c8f-4c20-b637-51dd518ba0f6.png)
+# Parstagram - Part II
+
+This is an Instagram clone with a custom Parse backend that allows a user to post photos, view a global photos feed, and add comments!
+
+Time spent: **X** hours spent in total
+
+## User Stories
+
+The following **required** functionality is completed:
+
+- [ x] User stays logged in across restarts. (1pt)
+- [x ] User can log out. (1pt)
+- [x ] User can view comments on a post. (3pts)
+- [ x] User can add a new comment. (5pts)
+
+The following **bonus** features are implemented:
+
+- [ ] User can add a profile picture. (2pts)
+- [ ] Profile pictures are shown for posts and comments. (2pts)
+
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />![parse-repository-header-sdk-objc](https://user-images.githubusercontent.com/5673677/138286296-f4e855c3-2c8f-4c20-b637-51dd518ba0f6.png)
 
 <h3 align="center">iOS · iPadOS · macOS · watchOS · tvOS</h3>
 
